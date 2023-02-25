@@ -1,0 +1,7 @@
+1. 1 to 3 to 12 delay in first 4 steps, 12 to 3 in last 4 steps
+2. randomized *=1.1 to 1.4 speed change for 40>; 0.9 to 1.1 for 40<60; 0.8 to 0.9 for >60;
+3. use log and sqrt of xh-abs(xexp) to measure for >60
+4. relocate delay() to be before mouse movement and not after
+5. count how much time has passed since last delay and add additional delay if needed
+6. set delay to 4ms, periodically (every 13to15 movements) do 2ms delay with full speed 
+7. randomize all this stuff
