@@ -1,5 +1,5 @@
 # SIF
-Stands for Simulated Input Framework. It it contains random number generator which utilizes your empty pin, uses arithmetic progression and sinusoids to prevent heuristic analysis, has autonomous coordinates system and doesn't use serial port. I also tried to make the main running part of the code somewhat simple, so even someone unfamiliar with programming could edit and use it, and explained most of the core code lines so it can be edited to your heart's content.
+Stands for Simulated Input Framework. It contains random number generator which utilizes your empty pin, uses arithmetic progression and sinusoids to prevent heuristic analysis, has autonomous coordinates system and doesn't use serial port. I also tried to make the main running part of the code somewhat simple, so even someone unfamiliar with programming could edit and use it, and explained most of the core code lines so it can be edited to your heart's content.
 
 # Preparations
 I expect you to have Arduino Leonardo and USB Host Shield on it. Optionally mouse Ritmix RMW-555 and PC running Windows 10 x64 would be good but not necessary.
