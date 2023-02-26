@@ -6,7 +6,7 @@ I expect you to have Arduino Leonardo and USB Host Shield on it. Optionally mous
 
 Your A5 pin should be empty for randomizer to work correctly.
 
-Then you need to change core arduino file USBDesc.h to disable serial connection, in windows Arduino IDE it's usually located at: c:\Users\\%username%\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino\
+Then you need to change core arduino file USBDesc.h to disable serial connection, in windows Arduino IDE 2.0.3 it's usually located at: c:\Users\\%username%\AppData\Local\Arduino15\packages\arduino\hardware\avr\1.8.6\cores\arduino\
 Either replace it with mine USBDesc.h if your IDE version is the same, or better manually uncomment //#define CDC_DISABLED
 
 # Usage
