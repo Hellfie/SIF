@@ -12,7 +12,7 @@ Either replace it with mine USBDesc.h if your IDE version is the same, or better
 # Usage
 If your screen's resolution isn't 1920x1080 you should change variables accordingly: "wdt" is screen's width and "hgt" is screen's height.
 
-If your mouse differs from mine you need to test it's polling rate. There's [MouseSpeedTester2](SIF/MouseSpeedTester2/) folder in repository with a programm for Windows and an instruction how to do it, use it and change your "mic" variable accordingly. Also it seems that with some Logitech mouses SIF doesn't work at all, I have one that it works with and one that doesn't. Expect that your mouse might not be compatible. I'm currently working on it.
+If your mouse differs from mine you need to test it's polling rate. There's [MouseSpeedTester2](/MouseSpeedTester2/) folder in repository with a programm for Windows and an instruction how to do it, use it and change your "mic" variable accordingly. Also it seems that with some Logitech mouses SIF doesn't work at all, I have one that it works with and one that doesn't. Expect that your mouse might not be compatible. I'm currently working on it.
 
 The safest way to start your Arduino undetected is to connect it before turning your computer on, but otherwise it doesn't seem to make serial connections except when resetting so you should be good overall. Also don't connect another mouse to PC while arduino is still plugged in to avoid detection.
 
