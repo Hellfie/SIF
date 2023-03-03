@@ -1,10 +1,12 @@
 # SIF
 Stands for Simulated Input Framework. It contains random number generator which utilizes your empty pin, uses arithmetic progression and sinusoids to prevent heuristic analysis, has autonomous coordinates system and doesn't use serial port. I also tried to make the main running part of the code somewhat simple, so even someone unfamiliar with programming could edit and use it, and explained most of the core code lines so it can be edited to your heart's content.
 
-To demonstrate here's a short sequence moving to the point and clicking a button:
+As a demonstration by default SIF does a simple sequence: after you make a click it moves your cursor to a specific point then makes a click, scrolling your mouse wheel down makes mouse function normally and scrolling your mouse wheel up enables script again.
 
-Unrandomized:
+Unrandomized destination:
 https://user-images.githubusercontent.com/34285977/222722816-8c4493c1-072b-4ac5-905c-44b7010ed2ce.mp4
+
+Randomized:
 
 # Preparations
 I expect you to have Arduino Leonardo and USB Host Shield on it. Optionally mouse Ritmix RMW-555 and PC running Windows 10 x64 would be good but not necessary.
