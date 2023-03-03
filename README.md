@@ -14,8 +14,12 @@ As a demonstration by default SIF does a simple sequence: after you make a click
 
 Unrandomized destination:
 https://user-images.githubusercontent.com/34285977/222722816-8c4493c1-072b-4ac5-905c-44b7010ed2ce.mp4
+Randomized: https://user-images.githubusercontent.com/34285977/222772487-bdf24375-077d-4abd-ab7c-1ff067403fcb.mp4
+The intended use: 
 
-Randomized:
+https://user-images.githubusercontent.com/34285977/222772612-486be781-f95b-46c1-ab48-8ddabc27c7f3.mp4
+
+
 
 If your screen's resolution isn't 1920x1080 you should change variables accordingly: "wdt" is screen's width and "hgt" is screen's height.
 
