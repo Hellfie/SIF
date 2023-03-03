@@ -12,9 +12,10 @@ Either replace it with mine USBDesc.h if your IDE version is the same, or better
 # Usage
 As a demonstration by default SIF does a simple sequence: after you make a click it moves your cursor to a specific point then makes a click. Scrolling your mouse wheel down makes mouse function normally and scrolling your mouse wheel up enables script again.
 
-Unrandomized destination:
+Unrandomized destination: 
 
-https://user-images.githubusercontent.com/34285977/222722816-8c4493c1-072b-4ac5-905c-44b7010ed2ce.mp4
+https://user-images.githubusercontent.com/34285977/222773189-63d3db44-a4e7-45e9-ab8d-80f3f161bda9.mp4
+
 
 Randomized: 
 
